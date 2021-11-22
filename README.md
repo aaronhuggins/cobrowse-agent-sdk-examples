@@ -8,8 +8,8 @@ Our Agent API can be used to build 100% customized agent-side integrations into 
 
 ## Live demo links
 
-- [Agent JS API Demo Page](https://cobrowseio.github.io/cobrowse-agent-sdk-examples/react-example/)
-- [Custom Agent Demo Page](https://cobrowseio.github.io/cobrowse-agent-sdk-examples/custom-agent-demo/)
+- [Agent JS API Demo Page](https://aaronhuggins.github.io/cobrowse-agent-sdk-examples/react-example/)
+- [Custom Agent Demo Page](https://aaronhuggins.github.io/cobrowse-agent-sdk-examples/custom-agent-demo/)
 
 ## React Example
 
